@@ -35,7 +35,33 @@ function App() {
           hopefully that number will grow.
         </p>
         <h3>Thursday</h3>
-        <AcroClass />
+        <AcroClass
+          location="YMCA Newport County"
+          address="792 Valley Road, Middletown, RI"
+          time="7:30pm - 8:45pm"
+          level="Beginner"
+          cost="$15"
+          teacher="Zack Cohen"
+        />
+
+        <h3>Sunday</h3>
+        <AcroClass
+          location="Fitness 500"
+          address="181 Bellevue Ave, Unit 12, Newport, RI"
+          time="2:30pm - 3:30pm"
+          level="Beginner"
+          cost="$20"
+          teacher="Zack Cohen"
+        />
+
+        <AcroClass
+          location="Rhode Island Circus Space"
+          address="5 Soule Street, Warwick, RI"
+          time="5:00pm - 6:30pm"
+          level="Beginner"
+          cost="$20"
+          teacher="Zack Cohen"
+        />
       </div>
     </div>
   );

@@ -35,6 +35,14 @@
   text-align: left;
 }
 
+dt {
+  display: inline-block;
+  width: 50px;
+}
+dd {
+  display: inline;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
