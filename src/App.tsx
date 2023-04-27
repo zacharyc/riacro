@@ -18,6 +18,7 @@ function App() {
           state. If you are running a class or jam that is not listed on this
           page, please reach out via the facebook group.
         </p>
+
         <h2>What is Acroyoga</h2>
         <p>
           Acroyoga, often confused with ariel yoga, is a partner based activity.
@@ -29,6 +30,7 @@ function App() {
           While there is a large community in the Boston area, it is slowly
           spreading down into Rhode Island.
         </p>
+
         <h2>Where can you find it?</h2>
         <p>
           There are currently three weekly classes in Rhode Island, and
@@ -62,7 +64,27 @@ function App() {
           cost="$20"
           teacher="Zack Cohen"
         />
+
+        <h2>Resources</h2>
+        <ul>
+          <li>
+            <a href="https://www.facebook.com/groups/riacro">
+              RI Acro Facebook Group
+            </a>
+          </li>
+          <li>
+            <a href="https://www.newportacroyoga.com">Newport RI Acroyoga</a>
+          </li>
+          <li>
+            <a href="https://www.facebook.com/groups/385663384785081">
+              Boston Acro Play Facebook Group
+            </a>
+          </li>
+        </ul>
       </div>
+      <footer>
+        <p>More information to come.</p>
+      </footer>
     </div>
   );
 }
